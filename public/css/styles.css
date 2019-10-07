@@ -1,0 +1,106 @@
+
+/* Sidebar */
+
+.search-block {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.search-button {
+    color: #fff;
+    border-radius: 0 10px 10px 0;
+}
+li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: #3f9ae5;
+}
+a:hover {
+    text-decoration: none;
+    color: #000;
+}
+.favourites-title {
+    margin-top: 50px;
+    display: inline-block;
+}
+.subscribe-block {
+    margin-top: 50px;
+}
+.subscribe-block>button {
+    color: #fff;
+}
+.subscribe-button {
+    color: #fff;
+}
+
+/* Content */
+
+.page-name {
+    margin-bottom: 50px;
+}
+.news-title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.news-block {
+    margin-bottom: 25px;
+}
+.news-text {
+    margin-bottom: 20px;
+}
+.news-favorite-block {
+    font-size: 10px;
+}
+.news-favorite-button {
+    font-size: 10px;
+    padding: 3px 6px;
+    margin-right: 10px;
+}
+.red {
+    color: #f00;
+}
+.add-favorite-button {
+    color: #fff;
+    background-color: #3f9ae5;
+    border-radius: 4px;
+    padding: 5px;
+}
+button.add-favorite-button {
+    border: none;
+}
+.add-favorite-button:hover {
+    color: #000;
+    background-color: #adcde8;
+}
+.remove-favorite-button {
+    color: #fff;
+    background-color: #05A04B;
+    border-radius: 4px;
+    padding: 5px;
+}
+.remove-favorite-button:hover {
+    color: #000;
+    background-color: #74c599;
+}
+
+/* Admin */
+
+.tr-table {
+    font-weight: 700;
+}
+.td-text {
+    padding: 5px 20px;
+}
+.table-body {
+    text-align: center;
+}
+.add-news {
+    margin-top: 15px;
+}
+.create-input {
+    margin-bottom: 30px;
+}
+.save-news {
+    float: right;
+}
